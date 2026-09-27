@@ -1,0 +1,199 @@
+entity,code,first_zero_year
+Afghanistan,AFG,1995
+Albania,ALB,1982
+Algeria,DZA,1991
+Andorra,AND,1999
+Angola,AGO,1983
+Antigua and Barbuda,ATG,1980
+Argentina,ARG,1986
+Armenia,ARM,1993
+Australia,AUS,1980
+Austria,AUT,1981
+Azerbaijan,AZE,1996
+Bahamas,BHS,1980
+Bahrain,BHR,1982
+Bangladesh,BGD,2001
+Barbados,BRB,1980
+Belarus,BLR,1991
+Belgium,BEL,1981
+Belize,BLZ,1981
+Benin,BEN,2001
+Bhutan,BTN,1981
+Bolivia,BOL,1984
+Bosnia and Herzegovina,BIH,1991
+Botswana,BWA,1988
+Brazil,BRA,1990
+Brunei,BRN,1980
+Bulgaria,BGR,1981
+Burkina Faso,BFA,1996
+Burundi,BDI,1997
+Cambodia,KHM,1998
+Cameroon,CMR,2000
+Canada,CAN,1980
+Cape Verde,CPV,1989
+Central African Republic,CAF,2001
+Chad,TCD,1994
+Chile,CHL,1980
+China,CHN,1997
+Colombia,COL,1992
+Comoros,COM,1981
+Congo,COG,1989
+Cook Islands,COK,1980
+Costa Rica,CRI,1980
+Cote d'Ivoire,CIV,2001
+Croatia,HRV,1991
+Cuba,CUB,1980
+Cyprus,CYP,1980
+Czechia,CZE,1991
+Democratic Republic of Congo,COD,2001
+Denmark,DNK,1980
+Djibouti,DJI,1991
+Dominica,DMA,1980
+Dominican Republic,DOM,1984
+East Timor,TLS,2002
+Ecuador,ECU,1984
+Egypt,EGY,2005
+El Salvador,SLV,1989
+Equatorial Guinea,GNQ,1988
+Eritrea,ERI,1996
+Estonia,EST,1991
+Eswatini,SWZ,1990
+Ethiopia,ETH,2002
+Fiji,FJI,1980
+Finland,FIN,1980
+France,FRA,1990
+Gabon,GAB,1999
+Gambia,GMB,1981
+Georgia,GEO,1992
+Germany,DEU,1985
+Ghana,GHA,2001
+Greece,GRC,1980
+Grenada,GRD,1980
+Guatemala,GTM,1991
+Guinea,GIN,2000
+Guinea-Bissau,GNB,1989
+Guyana,GUY,1980
+Haiti,HTI,1990
+Honduras,HND,1990
+Hong Kong,HKG,2001
+Hungary,HUN,1982
+Iceland,ISL,1980
+India,IND,2012
+Indonesia,IDN,2001
+Iran,IRN,2001
+Iraq,IRQ,2001
+Ireland,IRL,1981
+Israel,ISR,1986
+Italy,ITA,1985
+Jamaica,JAM,1980
+Japan,JPN,1983
+Jordan,JOR,1987
+Kazakhstan,KAZ,1996
+Kenya,KEN,1992
+Kiribati,KIR,1980
+Kuwait,KWT,1984
+Kyrgyzstan,KGZ,1993
+Laos,LAO,1997
+Latvia,LVA,1991
+Lebanon,LBN,1987
+Lesotho,LSO,1988
+Liberia,LBR,1992
+Libya,LBY,1992
+Lithuania,LTU,1991
+Luxembourg,LUX,1980
+Macao,MAC,2001
+Madagascar,MDG,1995
+Malawi,MWI,1992
+Malaysia,MYS,1986
+Maldives,MDV,1981
+Mali,MLI,2000
+Malta,MLT,1980
+Marshall Islands,MHL,1980
+Mauritania,MRT,1996
+Mauritius,MUS,1980
+Mexico,MEX,1991
+Micronesia (country),FSM,1987
+Moldova,MDA,1994
+Monaco,MCO,1980
+Mongolia,MNG,1980
+Montenegro,MNE,2006
+Morocco,MAR,1988
+Mozambique,MOZ,1989
+Myanmar,MMR,2001
+Namibia,NAM,1990
+Nauru,NRU,1980
+Nepal,NPL,2001
+Netherlands,NLD,1980
+New Zealand,NZL,1980
+Nicaragua,NIC,1982
+Niger,NER,2014
+Nigeria,NGA,2017
+Niue,NIU,1980
+North Korea,PRK,1980
+North Macedonia,MKD,1991
+Norway,NOR,1980
+Oman,OMN,1990
+Palau,PLW,1980
+Palestine,PSE,2001
+Panama,PAN,1980
+Papua New Guinea,PNG,1991
+Paraguay,PRY,1986
+Peru,PER,1992
+Philippines,PHL,1997
+Poland,POL,1985
+Portugal,PRT,1980
+Qatar,QAT,1983
+Reunion,REU,2007
+Romania,ROU,1985
+Russia,RUS,1997
+Rwanda,RWA,1990
+Saint Helena,SHN,2007
+Saint Kitts and Nevis,KNA,1980
+Saint Lucia,LCA,1980
+Saint Vincent and the Grenadines,VCT,1980
+Samoa,WSM,1980
+San Marino,SMR,1980
+Sao Tome and Principe,STP,1984
+Saudi Arabia,SAU,1996
+Senegal,SEN,1999
+Serbia,SRB,1981
+Seychelles,SYC,1980
+Sierra Leone,SLE,1995
+Singapore,SGP,1981
+Slovakia,SVK,1991
+Slovenia,SVN,1991
+Solomon Islands,SLB,1980
+Somalia,SOM,2003
+South Africa,ZAF,1991
+South Korea,KOR,1984
+South Sudan,SSD,2000
+Spain,ESP,1986
+Sri Lanka,LKA,1994
+Sudan,SDN,2002
+Suriname,SUR,1980
+Sweden,SWE,1980
+Switzerland,CHE,1983
+Syria,SYR,1993
+Tajikistan,TJK,1995
+Tanzania,TZA,1999
+Thailand,THA,2001
+Togo,TGO,2000
+Tonga,TON,1980
+Trinidad and Tobago,TTO,1980
+Tunisia,TUN,1989
+Turkey,TUR,1991
+Turkmenistan,TKM,1997
+Tuvalu,TUV,1980
+Uganda,UGA,1999
+Ukraine,UKR,1997
+United Arab Emirates,ARE,1989
+United Kingdom,GBR,1986
+United States,USA,1987
+Uruguay,URY,1980
+Uzbekistan,UZB,1996
+Vanuatu,VUT,1983
+Venezuela,VEN,1990
+Vietnam,VNM,1998
+Yemen,YEM,1997
+Zambia,ZMB,1996
+Zimbabwe,ZWE,1990
