@@ -1,0 +1,2 @@
+model,predictor,coefficient,time_ratio,lower_95_ci,upper_95_ci,z_statistic,p_value
+Log-normal,Doubling of baseline estimated cases,0.13478691284951275,1.1442929242519588,1.1197404415323122,1.1693837678142964,12.179912966927459,3.977060341342727e-34

@@ -1,0 +1,2 @@
+predictor,coefficient,hazard_ratio,lower_95_ci,upper_95_ci,p_value
+Doubling of baseline estimated cases,-0.27812719961026133,0.7572004997799602,0.7108591635443026,0.8065628555849498,6.048812944093925e-18

@@ -1,0 +1,4 @@
+zero_threshold,n_countries,n_events,percent_reaching_endpoint,n_right_censored,median_time_to_event
+3,149,146,97.98657718120806,3,12
+5,149,142,95.30201342281879,7,15
+10,149,124,83.22147651006712,25,20
