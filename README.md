@@ -693,34 +693,6 @@ The geographic distribution of remaining estimated burden needs to be considered
 
 ---
 
-# Statistical methods demonstrated
-
-- data cleaning and validation
-- missing-data assessment
-- longitudinal descriptive epidemiology
-- log transformation
-- annual percentage change
-- structural change testing
-- breakpoint estimation
-- BIC model selection
-- segmented log-linear regression
-- Kaplan–Meier estimation
-- right censoring
-- log-rank testing
-- Cox proportional hazards modelling
-- proportional hazards diagnostics
-- Schoenfeld residual testing
-- accelerated failure-time modelling
-- AIC model comparison
-- time-ratio interpretation
-- endpoint sensitivity analysis
-- recurrence analysis
-- Herfindahl–Hirschman concentration indices
-- effective-number measures
-- exploratory rank correlation
-
----
-
 # Tools
 
 Analysis was conducted in R using packages:
